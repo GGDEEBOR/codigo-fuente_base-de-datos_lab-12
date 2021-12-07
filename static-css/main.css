@@ -1,0 +1,6 @@
+body {
+    /*Fondo de a pagina web*/
+    background: #e3e1e6;
+    background: -webkit-linear-gradient(to right, #ffffff, #fafafa);
+    background: linear-gradient(to right, #f2f2f2, #ffffff);
+}
